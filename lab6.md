@@ -85,7 +85,7 @@ void loop(void){
 * คำสั่ง pio device monitor ใช้ในการดูผลลัพธ์ของการรันโปรแกรมใน microcontroller ซึ่งแดสงผลออกมาว่า ver started และ ตรวจสอบการแสดงผลของ wifi โดยทดลองค้นหาด้วยโทรศัพท์มือถือ 
 
 ### อภิปรายผลการทดลอง
-* จากการทดลองดังกล่าว โปรแกรม 06_Wifi-AP-Web-Server ทำให้เราสามารถสร้าง Wifi Access Point ขึ้นมาเองได้ และตรวจสอบพบว่ามีอยู่จริง ดังภาพ
+* จากการทดลองดังกล่าว โปรแกรม 06_Wifi-AP-Web-Server สามารถสร้าง Wifi Access Point ขึ้นมาเองได้ และตรวจสอบได้ดังภาพ
 
 ![3](https://user-images.githubusercontent.com/80879395/112326403-12762a00-8ce7-11eb-84f2-49ba58d05b0b.jpg)
 
