@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=VX-QNQcO-b4
   * ไปที่ตัวอย่างที่ 5
     * พิมพ์ cd 05_Wifi-Web-Server
 2. ดู source code program 
-- พิมพ์ vi src/main.cpp
-- โปรแกรมนี้เป็นการเชื่อมต่อ wifi จึงต้องใส่ชื่อ wifi และ password
-- ส่วนของ set up เป็นการเชื่อมต่อ wifi ที่ใส่ชื่อตอนแรก
-  - set up webserver แสดงผลเป็น Hello cnt
-  - cnt++ หมายถึง การนับเพิ่มเรื่อยๆ 
-- ส่วนของ loop  
+* พิมพ์ vi src/main.cpp
+* โปรแกรมนี้เป็นการเชื่อมต่อ wifi จึงต้องใส่ชื่อ wifi และ password
+* ส่วนของ set up เป็นการเชื่อมต่อ wifi ที่ใส่ชื่อตอนแรก
+  * set up webserver แสดงผลเป็น Hello cnt
+  * cnt++ หมายถึง การนับเพิ่มเรื่อยๆ 
+* ส่วนของ loop  
 ```javascript
 #include <ESP8266WiFi.h>
 //#include <WiFiClient.h>
