@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=NLIUsWLEpmg
   ![1](https://user-images.githubusercontent.com/80879395/112295388-70dee080-8cc6-11eb-9900-b4feaf9b75dc.jpg) (microcontroller ESP-01)
   
   ![2](https://user-images.githubusercontent.com/80879395/112296456-856fa880-8cc7-11eb-9de8-14188c0ad68a.jpg) (อุปกรณ์เชื่อมต่อ USB และ การเสียบเข้าทาง serial port)
+  
   2. เปิดไปที่โปรเเกรมตัวอย่าง pattani โดยเมื่อเปิดจะมีตัวอย่างทั้งหมด 9 ตัวอย่าง
       * ไปที่ตัวอย่างที่1
         * โดย พิมพ์ cd 01_Serial Monitor > vi src/main.cpp
