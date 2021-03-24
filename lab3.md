@@ -65,12 +65,14 @@ void loop()
    * พิมพ์ pio run -t upload
    * ในขณะที่ program กำลังรันข้อมูล เพื่อให้ microcontroller รับโปรแกรมใหม่เข้าไป
      * กดปุ่มสีแดง เพื่อให้เกิดการ reset
+
 ![2](https://user-images.githubusercontent.com/80879395/112314092-329fec00-8cdb-11eb-8655-8925675a2ea2.jpg)
 
    * สังเกตผลลัพธ์ที่แสดงผลผ่านคอมพิวเตอร์
      * พิมพ์ pio device monitor
 6. นำ microcontroller ต่อเข้ากับ Relay
-![3](https://user-images.githubusercontent.com/80879395/112314277-6a0e9880-8cdb-11eb-9c74-f12c2a5c80dc.jpg)
+
+
 
 7. นำแหล่งจ่ายไฟมาต่อเข้ากับตัว Relay เพื่อจ่ายไฟให้ Relay ทำงานได้
    * ผลลัพธ์ออกมาเป็น on off สลับกันไปเรื่อยๆ ดังภาพ
