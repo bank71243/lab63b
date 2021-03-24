@@ -1,3 +1,4 @@
+![3](https://user-images.githubusercontent.com/80879395/112315126-63345580-8cdc-11eb-83df-5a639e95cf30.jpg)
 # การทดลองที่ 3 การเขียนโปรแกรมเอ้าพุทสัญญาณดิจิทัล
 
 ### วัตถุประสงค์
@@ -72,6 +73,7 @@ void loop()
      * พิมพ์ pio device monitor
 6. นำ microcontroller ต่อเข้ากับ Relay
 
+![3](https://user-images.githubusercontent.com/80879395/112315150-6a5b6380-8cdc-11eb-88e5-54a47bcc855f.jpg)
 
 
 7. นำแหล่งจ่ายไฟมาต่อเข้ากับตัว Relay เพื่อจ่ายไฟให้ Relay ทำงานได้
