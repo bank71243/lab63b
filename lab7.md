@@ -18,19 +18,19 @@
 
 ### วิธีการทำการทดลอง
 1. ติดตั้ง Arduino core for ESP32
-   - ติดตั้ง Arduino core for ESP32    
-     - ลิงค์ดาวโหลด Arduino (IDE) https://www.arduino.cc/en/Main/Software
-     - ติดตั้ง แพลตฟอร์ม ESP32
-         - เปิด Arduino IDE และไปที่ File > Preferences
+- ติดตั้ง Arduino core for ESP32    
+  - ลิงค์ดาวโหลด Arduino (IDE) https://www.arduino.cc/en/Main/Software
+  - ติดตั้ง แพลตฟอร์ม ESP32
+  - เปิด Arduino IDE และไปที่ File > Preferences
          
 ![1](https://user-images.githubusercontent.com/80879395/113191407-b5025000-9287-11eb-97fa-cee7329f9573.jpg)
        
-         - คัดลอก URL ( https://dl.espressif.com/dl/package_esp32_index.json ) Additional Board Manager URLs: แล้ว คลิก OK
+  - คัดลอก URL ( https://dl.espressif.com/dl/package_esp32_index.json ) Additional Board Manager URLs: แล้ว คลิก OK
         
 ![2](https://user-images.githubusercontent.com/80879395/113191472-ca777a00-9287-11eb-8283-244456f8aee6.jpg)
                   
-         - จากนั้นไปที่ตัวจัดการบอร์ดโดยไปที่ Tools > Board: > Boards Manager...
-         - ที่ช่องค้นหา พิมพ์ esp32 จะพบ esp32 by Espressif Systems แล้วคลิก Install
+  - จากนั้นไปที่ตัวจัดการบอร์ดโดยไปที่ Tools > Board: > Boards Manager...
+  - ที่ช่องค้นหา พิมพ์ esp32 จะพบ esp32 by Espressif Systems แล้วคลิก Install
          
 ![image](https://user-images.githubusercontent.com/80879395/113188778-acf4e100-9284-11eb-8d40-d79cdcc61aad.png)
         
